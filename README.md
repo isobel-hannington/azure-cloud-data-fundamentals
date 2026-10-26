@@ -156,9 +156,6 @@ My workbook shows my original answers. Three needed correcting, and the tables a
 - **Copy figures from the source.** I typed the monthly estimate as £5,836.44, but the calculator shows £5,886.44, which matches the annual total.
 - **Check examples in detail.** Netflix runs its back-end systems on AWS, but its video is delivered through its own network, not streamed from AWS.
 
-## 💼 Where this applies
-
-Auditors assess clients' IT controls, and the shared responsibility model decides which controls a client still owns after moving to the cloud. Cloud spending also shifts costs from capital to operating expenditure, which changes how they appear in budgets and accounts. Data protection and computer misuse law apply to anyone handling client data, whatever their role.
 
 ## 📁 Repository contents
 
