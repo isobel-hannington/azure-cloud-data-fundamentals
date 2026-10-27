@@ -105,7 +105,7 @@ I also suggested Azure Machine Learning for a café chain: forecasting busy days
 | Explore real-time analytics in Microsoft Fabric | Streaming | An eventstream feeding a live taxi data stream into an eventhouse, queried with KQL |
 | Explore fundamentals of data visualisation | Reporting | A simple report from sample data in Power BI |
 
-My workbook's evidence for the labs is the completion screens. For SQL I wrote myself, see my [SQL repository](https://github.com/isobel-hannington/sql-northwind-world-analysis).
+For SQL I wrote myself, see my [SQL repository](https://github.com/isobel-hannington/sql-northwind-world-analysis).
 
 ## 🔒 Handling data responsibly
 
